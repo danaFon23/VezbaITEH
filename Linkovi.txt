@@ -1,0 +1,12 @@
+
+<html>
+
+<body>
+<a href="http://www.fon.bg.ac.yu"> Kliknite ovde ako hocete na sajt Fon - a</a> 
+
+<br>
+
+http://www.yahoo.com Kliknite ovde ako hocete na sajt Yahoo - a 
+
+</body>
+</html>
